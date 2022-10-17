@@ -2,7 +2,7 @@
 
 ### Contact me
 - <https://github.com/husthuanong>
-- <husthuanong@foxmail.com>
+- <husthuanong@gmail.com>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=husthuanong&show_icons=true&theme=dark&count_private=true)
 
